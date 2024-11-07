@@ -1,4 +1,4 @@
-#React 배우기 전에 쓰는 이유부터 알아야 <br/>
+# React 배우기 전에 쓰는 이유부터 알아야 <br/>
   ##React 왜 씁니까 <br/>
     ###Naver Vibe, Flipkart, Instagram 이런 사이트들을 Single Page Application 이라고 하는데 <br/>
       ####1. html 파일을 1개만 쓰고 <br/>
